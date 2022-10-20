@@ -287,7 +287,6 @@ font-family: Arial, Helvetica, sans-serif;
     padding-top: 10px;
     background-color: #d1d3d5;
     padding-bottom: 10px;
-    
 }
 .image1 {
     width: 33%;
@@ -310,3 +309,78 @@ font-family: Arial, Helvetica, sans-serif;
 .image3 img{
     width: 100%;  
 }
+.col6 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+    border-bottom: 1px solid #d1d3d5;
+    border-top: 1px solid #d1d3d5
+}
+.topoffer {
+    width: 20%;
+    text-align: center;
+    padding-top: 80px;
+    margin-left: 10px;
+    height: 250px;
+
+}
+.topoffer p{
+    Font-size: 30px;
+    Font-weight: 400;   
+    Line-height: 41.4px;
+    color: rgb(33, 33, 33);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+    
+}
+.topoffer button {
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    font-weight: 500;
+    padding: 15px 30px;
+    cursor: pointer;
+}
+.pix1 {width: 20%; margin-top: 40px; height: 150px; cursor: pointer;}
+.pix1 img {width: 70%; margin-bottom: 10px;}
+.pix1 h5 {Font-size: 14px; Font-weight: 500; color: rgb(33, 33, 33);
+    font-family: Arial, Helvetica, sans-serif; Line-height: 19.6px; margin-left: 40px;
+    margin-bottom: 10px; margin-top: 15px;}
+.pix1 h6 {
+    Font-size: 16px; Font-weight: 400; color: rgb(56, 142, 60); font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px; margin-left: 65px;}
+.pix1 p{Font-size: 14px; Font-weight: 400; color: rgb(33, 33, 33);
+    font-family: Arial, Helvetica, sans-serif; padding-left: 40px;}
+
+.pix2 {width: 20%; margin-top: 40px; height: 150px; cursor: pointer; margin-right: 70px;}
+.pix2 img {width: 70%; margin-bottom: 10px;}
+.pix2 h5 {Font-size: 14px; Font-weight: 500; color: rgb(33, 33, 33);
+    font-family: Arial, Helvetica, sans-serif; Line-height: 19.6px; margin-left: 40px;
+    margin-bottom: 10px; padding-top: 100px;}
+.pix2 h6 {
+    Font-size: 16px; Font-weight: 400; color: rgb(56, 142, 60); font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;}
+.pix2 p{Font-size: 14px; Font-weight: 400; color: rgb(33, 33, 33);
+    font-family: Arial, Helvetica, sans-serif; padding-left: 40px;}
+.pix3 {width: 20%; margin-top: 40px; height: 150px; cursor: pointer; margin-right: 70px;}
+.pix3 img {width: 70%; margin-bottom: 10px;}
+.pix3 h5 {Font-size: 14px; Font-weight: 500; color: rgb(33, 33, 33);
+        font-family: Arial, Helvetica, sans-serif; Line-height: 19.6px; margin-left: 70px;
+        margin-bottom: 10px; padding-top: 20px;}
+.pix3 h6 {
+        Font-size: 16px; Font-weight: 400; color: rgb(56, 142, 60); font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 10px; margin-left: 60px;}
+.pix3 p{Font-size: 14px; Font-weight: 400; color: rgb(33, 33, 33);
+        font-family: Arial, Helvetica, sans-serif; padding-left: 40px;}
+
+.pix4 {width: 20%; margin-top: 40px; height: 150px; cursor: pointer; margin-right: 70px;}
+.pix4 img {width: 70%; margin-bottom: 10px;}
+.pix4 h5 {Font-size: 14px; Font-weight: 500; color: rgb(33, 33, 33);
+            font-family: Arial, Helvetica, sans-serif; Line-height: 19.6px; margin-left: 80px;
+            margin-bottom: 10px; padding-top: 45px;}
+.pix4 h6 {Font-size: 16px; Font-weight: 400; color: rgb(56, 142, 60); font-family: Arial, Helvetica, sans-serif;
+            margin-bottom: 10px; margin-left: 70px;}
+.pix4 p{Font-size: 14px; Font-weight: 400; color: rgb(33, 33, 33);
+            font-family: Arial, Helvetica, sans-serif; padding-left: 40px;}
+        
