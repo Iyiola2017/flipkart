@@ -1,0 +1,114 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.navbar {
+    display: flex;
+    background-color: #2874f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin: auto;
+    width: 100%;
+}
+.col1 {
+    display: grid;
+    margin-left: -50px;
+}
+.logo {
+    width: 30%;
+}
+.logo img {
+    width: 100%;   
+}
+.d1 {
+Font-size: 11px;
+Font-weight: 400;
+Line-height: 15.4px;
+color: rgb(240, 240, 240);
+font-family: Arial, Helvetica, sans-serif;
+}
+.d {
+    Font-size: 11px;
+    Font-weight: 400;
+    Line-height: 15.4px;
+    color: rgb(240, 240, 240);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search-bar {
+    width: 100%;
+    max-width: 420px;
+    background-color: white;
+    display: flex;
+    margin-right: 100px;
+    margin-left: -100px;
+}
+.search-bar input{
+    flex: 1;
+    padding: 10px 10px;
+    font-size: 14px;
+    border: none;
+    margin-left: -50px;
+}
+.search-bar img {
+    width: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.log {
+    margin-right: 30px;
+    margin-left: -95px;
+}
+.btn1{
+    color: #2874f0;
+    border: 1px solid black;
+    padding: 6px 20px;
+    Font-size: 16px;
+    Font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    background-color: white;
+    cursor: pointer;
+}
+.dr {
+    display: flex;
+    color: white;
+}
+.d2 {
+    Font-size: 16px;
+    Font-weight: 500;
+    Line-height: 20px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto, Arial, sans-serif;
+    cursor: pointer;
+    margin-right: 50px;
+}
+.d3 {
+    Font-size: 16px;
+    Font-weight: 500;
+    Line-height: 20px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto, Arial, sans-serif;
+    cursor: pointer;
+    margin-right: 50px;
+}
+.d4 {
+    Font-size: 16px;
+    Font-weight: 500;
+    Line-height: 20px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto, Arial, sans-serif;
+    cursor: pointer;
+    margin-left: 30px;
+}
+.align {
+    display: flex;
+}
+.d1 {
+    margin-right: 3px;
+    font-style: italic;
+}
+.align i::first-line{
+    color: #ecdb15;
+}
