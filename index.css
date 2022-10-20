@@ -11,6 +11,7 @@
     padding-bottom: 7px;
     margin: auto;
     width: 100%;
+    border-bottom: 1px solid #d1d3d5;
 }
 .col1 {
     display: grid;
@@ -112,3 +113,165 @@ font-family: Arial, Helvetica, sans-serif;
 .align i::first-line{
     color: #ecdb15;
 }
+.col2 {
+    display: flex;
+    width: 100%;
+    padding-left: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid #d1d3d5;
+    padding-bottom: 10px;
+}
+.top {
+    width: 10%;
+    padding-left: 20px;
+}
+.top img {
+    width: 50%;
+    
+}
+.top p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.mobiles {
+    width: 10%;
+    padding-right: 30px;
+}
+.mobiles img {
+    width: 50%;
+    padding-left: 20px;
+}
+.mobiles p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    
+    
+}
+.elect {
+    width: 10%;
+}
+.elect img {
+    width: 50%;
+}
+.elect p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.tv {
+    width: 10%;
+    padding-right: 30px;
+}
+.tv img {
+    width: 50%;
+    padding-left: 20px;
+}
+.tv p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.fash {
+    width: 10%;
+}
+.fash img {
+    width: 50%;
+}
+.fash p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.beau {
+    width: 10%;
+
+}
+.beau img {
+    width: 50%;
+}
+.beau p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.furniture {
+    width: 10%;
+    padding-right: 30px;
+}
+.furniture img {
+    width: 50%;
+    padding-left: 20px;
+}
+.furniture p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.fk {
+    width: 10%;
+}
+.fk img {
+    width: 50%;
+    padding-left: 10px;
+}
+.fk p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.flight {
+    width: 10%;
+}
+.flight img {
+    width: 50%;
+    padding-left: 10px;
+}
+.flight p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.gro {
+    width: 10%;
+}
+.gro img {
+    width: 50%;
+    padding-right: 10px;
+}
+.gro p:hover {
+    Font-size: 14px;
+    Font-weight: 500;
+    color: rgb(40, 116, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+/* .col3 {
+    width: 100%;
+    background-color: #f1f3f6;
+}
+.col3 img {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+} */
