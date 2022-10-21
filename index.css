@@ -383,4 +383,47 @@ font-family: Arial, Helvetica, sans-serif;
             margin-bottom: 10px; margin-left: 70px;}
 .pix4 p{Font-size: 14px; Font-weight: 400; color: rgb(33, 33, 33);
             font-family: Arial, Helvetica, sans-serif; padding-left: 40px;}
-        
+ .last {
+    display: flex;
+    width: 100%;
+    background-color: #172337;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    border-bottom: 1px solid #878584;
+    
+ }    
+ .write1 {padding-left: 60px; color: #f0fcd9;}   
+ .write1 h6{color: #878584; margin-bottom: 20px; Font-size: 12px;Font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;}
+ .write1 p{Font-size: 12px; Font-weight: 400; Line-height: 24px;
+    font-family: Arial, Helvetica, sans-serif; cursor: pointer;}
+
+.write2 {color: #f0fcd9;}   
+.write2 h6{color: #878584; margin-bottom: 20px; Font-size: 12px;Font-weight: 400;
+       font-family: Arial, Helvetica, sans-serif;}
+.write2 p{Font-size: 12px; Font-weight: 400; Line-height: 24px;
+       font-family: Arial, Helvetica, sans-serif; cursor: pointer;}
+
+.write3 {color: #f0fcd9;}   
+.write3 h6{color: #878584; margin-bottom: 20px; Font-size: 12px;Font-weight: 400;
+          font-family: Arial, Helvetica, sans-serif;}
+.write3 p{Font-size: 12px; Font-weight: 400; Line-height: 24px;
+          font-family: Arial, Helvetica, sans-serif; cursor: pointer;}
+
+.write4 {color: #f0fcd9;}   
+.write4 h6{color: #878584; margin-bottom: 20px; Font-size: 12px;Font-weight: 400;
+             font-family: Arial, Helvetica, sans-serif;}
+.write4 p{Font-size: 12px; Font-weight: 400; Line-height: 24px;
+        font-family: Arial, Helvetica, sans-serif; cursor: pointer;}
+
+.write5 {color: #f0fcd9; border-left: 1px solid #878584;}   
+.write5 h6{color: #878584; margin-bottom: 20px; Font-size: 12px;Font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;}
+.write5 p{Font-size: 12px; Font-weight: 400; Line-height: 24px;
+    font-family: Arial, Helvetica, sans-serif; cursor: pointer;}
+.write6 {color: #f0fcd9;}   
+.write6 h6{color: #878584; margin-bottom: 20px; Font-size: 12px;Font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;}
+.write6 p{Font-size: 12px; Font-weight: 400; Line-height: 24px;
+    font-family: Arial, Helvetica, sans-serif; cursor: pointer; padding-right: 20px;}
